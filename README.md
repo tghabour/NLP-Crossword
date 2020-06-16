@@ -20,7 +20,7 @@ Predict puzzle difficulty based on semantic features and topic modeling of puzzl
 
 ## Methodology:
 
-![Clue Types](/Users/amg/Data_Science/GitHub/NLP_Crossword/img/clue_types.svg)
+![clue_types](/Users/amg/Data_Science/GitHub/NLP_Crossword/img/clue_types.svg)
 
 ## Future Work:
 
