@@ -20,7 +20,11 @@ Predict puzzle difficulty based on semantic features and topic modeling of puzzl
 
 ## Methodology:
 
+## Analysis:
+
 ![clue_types](img/clue_types.svg)
+
+## Results:
 
 ## Future Work:
 
