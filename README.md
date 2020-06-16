@@ -20,6 +20,8 @@ Predict puzzle difficulty based on semantic features and topic modeling of puzzl
 
 ## Methodology:
 
+![model_design](https://i.loli.net/2020/06/17/FeOQ3aKqbYkWTHn.png)
+
 ## Analysis:
 
 ![avg_unique_words](img/avg_unique_words.svg)
