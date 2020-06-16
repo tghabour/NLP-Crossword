@@ -20,6 +20,22 @@ Predict puzzle difficulty based on semantic features and topic modeling of puzzl
 
 ## Methodology:
 
-## Data Source
+![Clue Types](/Users/amg/Data_Science/GitHub/NLP_Crossword/img/clue_types.svg)
+
+## Future Work:
+
+* Letter frequency
+* Answer length
+* Named entity recognition
+* Analysis by author
+* Analysis by editor
+* Changes over time
+* Refined topic analysis
+* Consider using individual clues as docs
+* Clustering
+* Try other classifiers and ensembling (Naive Bayes?)
+* LDA?
+
+## Data Source:
 
 https://github.com/doshea/nyt_crosswords
