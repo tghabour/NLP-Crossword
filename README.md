@@ -22,6 +22,8 @@ Predict puzzle difficulty based on semantic features and topic modeling of puzzl
 
 ## Analysis:
 
+![avg_unique_words](img/avg_unique_words.svg)
+
 ![clue_types](img/clue_types.svg)
 
 ## Results:
