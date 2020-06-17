@@ -26,10 +26,10 @@ Predict puzzle difficulty based on semantic features and topic modeling of puzzl
 
 ### Corpus:
 
-	* Over 14 thousand puzzles 
-	* Nearly 1.3 million clues and answers
-	* Puzzles dating back to 1977
-	* Spans two editors and over 1700 unique authors 
+ - Over 14 thousand puzzles 
+ - Nearly 1.3 million clues and answers
+ - Puzzles dating back to 1977
+ - Spans two editors and over 1700 unique authors 
 
 ### Processing:
 
