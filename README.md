@@ -35,8 +35,8 @@ Predict puzzle difficulty based on semantic features and topic modeling of puzzl
 
  - Day of week of first incidence of answer
  - Prevelance of clues by type by day of week:
-   	* Fill in the blank
-      	* Quotations and literary references 
+  * Fill in the blank
+  * Quotations and literary references 
    	* Self-referential 
    	* Puns and word play
 
