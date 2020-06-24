@@ -31,28 +31,20 @@ Predict puzzle difficulty based on semantic features and topic modeling of puzzl
  - Puzzles dating back to 1977
  - Spans two editors and over 1700 unique authors 
 
-### Processing:
-
 ### Exploratory Data Analysis (EDA):
 
  - Day of week of first incidence of answer
  - Prevelance of clues by type by day of week:
    	* Fill in the blank
-   	* Quotations and literary references 
+      	* Quotations and literary references 
    	* Self-referential 
    	* Puns and word play
-
-### Topic Modeling:
-
-### Classification:
 
 ## Analysis:
 
 ![avg_unique_words](img/avg_unique_words.svg)
 
 ![clue_types](img/clue_types.svg)
-
-## Results:
 
 ## Future Work:
 
